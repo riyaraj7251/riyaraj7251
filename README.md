@@ -21,9 +21,9 @@ I teach forensic science at Kristu Jayanti (Deemed to be University), coordinate
 
 <p align="center"><img src="assets/research-areas.svg" width="100%" alt="Research areas: environmental forensics, forensic microbiology, forensic toxicology, biological evidence, spatial forensics, forensic nutrition"></p>
 
-## 🗂️ Open case files
+## 🗂️ Case files
 
-<p align="center"><img src="assets/case-files.svg" width="100%" alt="Current work: Bengaluru Forensic Atlas, Textbook of Forensic Biology and Serology"></p>
+<p align="center"><img src="assets/case-files.svg" width="100%" alt="Case files: aquatic microbiome clocks (published), crime mapping and policing (published), Bengaluru Forensic Atlas (in progress), Textbook of Forensic Biology and Serology (in progress)"></p>
 
 ## 📊 Evidence board
 
