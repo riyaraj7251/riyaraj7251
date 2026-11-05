@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="60" viewBox="0 0 1200 60">
+<g transform="rotate(-0.6 600 30)"><rect x="-20" y="10" width="1240" height="40" fill="#facc15"/>
+<rect x="-20" y="10" width="1240" height="3" fill="#111"/><rect x="-20" y="47" width="1240" height="3" fill="#111"/>
+<g><animateTransform attributeName="transform" type="translate" from="0,0" to="-1200,0" dur="26s" repeatCount="indefinite"/>
+<text x="0" y="37" font-family="Consolas,'Courier New',monospace" font-size="18" font-weight="700" fill="#111" xml:space="preserve" textLength="1200" lengthAdjust="spacingAndGlyphs">  ◆  FORENSIC SCIENCE  ◆  EVIDENCE  ◆  RESEARCH  ◆  DO NOT CROSS  ◆  SOIL · MICROBES · MAPS  </text>
+<text x="1200" y="37" font-family="Consolas,'Courier New',monospace" font-size="18" font-weight="700" fill="#111" xml:space="preserve" textLength="1200" lengthAdjust="spacingAndGlyphs">  ◆  FORENSIC SCIENCE  ◆  EVIDENCE  ◆  RESEARCH  ◆  DO NOT CROSS  ◆  SOIL · MICROBES · MAPS  </text></g></g>
+</svg>
