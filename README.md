@@ -23,7 +23,7 @@ I teach forensic science at Kristu Jayanti (Deemed to be University), coordinate
 
 ## 🗂️ Open case files
 
-<p align="center"><img src="assets/case-files.svg" width="100%" alt="Current work: forensic soil provenance PhD, Bengaluru Forensic Atlas, Textbook of Forensic Biology and Serology"></p>
+<p align="center"><img src="assets/case-files.svg" width="100%" alt="Current work: Bengaluru Forensic Atlas, Textbook of Forensic Biology and Serology"></p>
 
 ## 📊 Evidence board
 
